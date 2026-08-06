@@ -1,2 +1,14 @@
-User-agent: *
+# Feeds de catalogo N1 — apenas para os fetchers de Merchant Center e Meta.
+# Todos os outros crawlers (indexacao de busca incluida): fora.
+User-agent: Googlebot
 Allow: /
+User-agent: Storebot-Google
+Allow: /
+User-agent: AdsBot-Google
+Allow: /
+User-agent: facebookexternalhit
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+User-agent: *
+Disallow: /
