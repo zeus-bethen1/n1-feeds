@@ -15,7 +15,7 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 18883,Guantes de Portero Sirius 2.0 Pink UGT+ II,"El Sirius 2.0 ha llegado para redefinir la portería. Con un diseño revolucionario y el nuevo tejido de alto rendimiento  AirFlex Pro , este guante establece un nuevo estándar en flexibilidad, comodidad, ajuste y transpiración. Combina ligereza y ajuste con armado a la perfección. ¡El arma definitiva para porteros que exigen lo mejor!",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/inicio/18883-guantes-de-portero-sirius-20-pink-ugt-ii,https://n1gloves.com/14958-large_default/guantes-de-portero-sirius-20-pink-ugt-ii.jpg,N1 Goalkeeper,,GL-SIRPIN-0369,41
 18911,Guantes de Portero Sirius 2.0 Neon UGT+ II,"El  Sirius 2.0  ha llegado para redefinir la portería. Con un diseño revolucionario y el nuevo tejido de alto rendimiento  AirFlex Pro , este guante establece un nuevo estándar en flexibilidad, comodidad, ajuste y transpiración. Combina ligereza y ajuste con armado a la perfección. ¡El arma definitiva para porteros que exigen lo mejor!",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/inicio/18911-guantes-de-portero-sirius-20-neon-ugt-ii,https://n1gloves.com/15016-large_default/guantes-de-portero-sirius-20-neon-ugt-ii.jpg,N1 Goalkeeper,,GL-SIRNEO-0370,37
 20003,Muñeco hinchable N1- 205 cm,"Muñeco hinchable de entrenamiento de porteros N1.  Ideal tanto para entrenamientos específicos de porteros simulando un atacante o defensor que nos servirá como oposición del ejercicio, como para entrenamientos de equipo en tareas de centros y remate. Su alta resistencia gracias al material del que se compone te permitirá usarlo en ejercicios de coordinación, tiros libres, ejercicios tácticos y habilidad.   * Producto no compatible con descuentos",in stock,new,59.90 EUR,,https://n1gloves.com/es/inicio/20003-muneco-hinchable-n1-205-cm,https://n1gloves.com/15756-large_default/muneco-hinchable-n1-205-cm.jpg,N1 Goalkeeper,,AC-0021,5
-21784,Guantes de Portero Sirius 2.0 Black Neon UGT+ II,"El  Sirius 2.0  ha llegado para redefinir la portería. Con un diseño revolucionario y el nuevo tejido de alto rendimiento  AirFlex Pro , este guante establece un nuevo estándar en flexibilidad, comodidad, ajuste y transpiración. Combina ligereza y ajuste con armado a la perfección. ¡El arma definitiva para porteros que exigen lo mejor!",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/inicio/21784-guantes-de-portero-sirius-20-black-neon-ugt-ii,https://n1gloves.com/17595-large_default/guantes-de-portero-sirius-20-black-neon-ugt-ii.jpg,N1 Goalkeeper,,GL-SIRBLA-0436,54
+21784,Guantes de Portero Sirius 2.0 Black Neon UGT+ II,"El  Sirius 2.0  ha llegado para redefinir la portería. Con un diseño revolucionario y el nuevo tejido de alto rendimiento  AirFlex Pro , este guante establece un nuevo estándar en flexibilidad, comodidad, ajuste y transpiración. Combina ligereza y ajuste con armado a la perfección. ¡El arma definitiva para porteros que exigen lo mejor!",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/inicio/21784-guantes-de-portero-sirius-20-black-neon-ugt-ii,https://n1gloves.com/17595-large_default/guantes-de-portero-sirius-20-black-neon-ugt-ii.jpg,N1 Goalkeeper,,GL-SIRBLA-0436,53
 21806,Guantes de Portero Sirius 2.0 Red UGT+ II,"El Sirius 2.0 ha llegado para romper todos los esquemas. Con un diseño revolucionario y el nuevo tejido de alto rendimiento, este guante redefine el estándar de flexibilidad, ajuste y transpiración. ¡El arma definitiva para porteros que exigen lo mejor!",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/inicio/21806-guantes-de-portero-sirius-20-red-ugt-ii,https://n1gloves.com/17649-large_default/guantes-de-portero-sirius-20-red-ugt-ii.jpg,N1 Goalkeeper,,GL-SIRRED-0433,98
 22521,Guantes de Portero Scorpius 2.0 Green Eudes,"Descubre la evolución del guante de portero más exitoso, ahora más ligero y ajustado como una segunda piel. El Scorpius 2.0 UGT+ II presenta un corte Negativo y la palma de Látex Alemán 100% natural UGT+.",in stock,new,69.90 EUR,48.93 EUR,https://n1gloves.com/es/inicio/22521-guantes-de-portero-scorpius-20-green-eudes,https://n1gloves.com/18407-large_default/guantes-de-portero-scorpius-20-green-eudes.jpg,N1 Goalkeeper,,GL-SCOGRE-0397,47
 23693,Porta Guantes N1,"Este funcional neceser portaguantes ha sido diseñado especialmente para los porteros que buscan orden, practicidad y una presentación profesional de sus elementos esenciales. Ideal para llevar tus guantes y accesorios de forma segura y organizada, tanto a entrenamientos como a partidos.",in stock,new,19.90 EUR,,https://n1gloves.com/es/inicio/23693-porta-guantes-n1-8435768021578,https://n1gloves.com/19644-large_default/porta-guantes-n1.jpg,N1 Goalkeeper,8435768021578,AC-0017,21
@@ -79,22 +79,179 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 28515,Macuto N1 Pro,Macuto N1 Pro,in stock,new,39.90 EUR,,https://n1gloves.com/es/inicio/28515-macuto-n1-pro-8435768021592,https://n1gloves.com/24677-large_default/macuto-n1-pro.jpg,N1 Goalkeeper,8435768021592,AC-0019,48
 28983,Calcetines antideslizantes N1 - White,"Calcetines técnicos antideslizantes con grip. 
  Mantienen el pie firme dentro de la bota, evitando deslizamientos internos y mejorando la estabilidad en cada acción. 
- Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 80% Poliéster / 10% Poliamida / 10% Elastano. Zonas grip: 100% PVC.",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28983--calcetines-antideslizantes-n1-white,https://n1gloves.com/25159-large_default/-calcetines-antideslizantes-n1-white.jpg,N1 Goalkeeper,,AC-GRIWHI-0138,782
+ Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 80% Poliéster / 10% Poliamida / 10% Elastano. Zonas grip: 100% PVC.   
+  MEDIDAS  
+  Talla S  
+ 
+ 
+ EU: 35–38 
+ 
+ 
+ US: 3–6 
+ 
+ 
+  Talla M  
+ 
+ 
+ EU: 39–42 
+ 
+ 
+ US: 7–9 
+ 
+ 
+  Talla L  
+ 
+ 
+ EU: 43–46 
+ 
+ 
+ US: 10–12",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28983--calcetines-antideslizantes-n1-white,https://n1gloves.com/25159-large_default/-calcetines-antideslizantes-n1-white.jpg,N1 Goalkeeper,,AC-GRIWHI-0138,782
 28992,Calcetines antideslizantes N1 - Black,"Calcetines técnicos antideslizantes con grip. 
  Mantienen el pie firme dentro de la bota, evitando deslizamientos internos y mejorando la estabilidad en cada acción. 
- Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC.",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28992-calcetines-antideslizantes-n1-black,https://n1gloves.com/25180-large_default/calcetines-antideslizantes-n1-black.jpg,N1 Goalkeeper,,AC-GRIBLA-0139,925
+ Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC. 
+  
+  MEDIDAS  
+  Talla S  
+ 
+ 
+ EU: 35–38 
+ 
+ 
+ US: 3–6 
+ 
+ 
+  Talla M  
+ 
+ 
+ EU: 39–42 
+ 
+ 
+ US: 7–9 
+ 
+ 
+  Talla L  
+ 
+ 
+ EU: 43–46 
+ 
+ 
+ US: 10–12",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28992-calcetines-antideslizantes-n1-black,https://n1gloves.com/25180-large_default/calcetines-antideslizantes-n1-black.jpg,N1 Goalkeeper,,AC-GRIBLA-0139,925
 28993,Calcetines antideslizantes N1- Yellow,"Calcetines técnicos antideslizantes con grip. 
  Mantienen el pie firme dentro de la bota, evitando deslizamientos internos y mejorando la estabilidad en cada acción. 
- Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC.",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28993-calcetines-antideslizantes-n1-yellow,https://n1gloves.com/25188-large_default/calcetines-antideslizantes-n1-yellow.jpg,N1 Goalkeeper,,AC-GRIYEL-0497,299
+ Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC. 
+  MEDIDAS  
+  Talla S  
+ 
+ 
+ EU: 35–38 
+ 
+ 
+ US: 3–6 
+ 
+ 
+  Talla M  
+ 
+ 
+ EU: 39–42 
+ 
+ 
+ US: 7–9 
+ 
+ 
+  Talla L  
+ 
+ 
+ EU: 43–46 
+ 
+ 
+ US: 10–12",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28993-calcetines-antideslizantes-n1-yellow,https://n1gloves.com/25188-large_default/calcetines-antideslizantes-n1-yellow.jpg,N1 Goalkeeper,,AC-GRIYEL-0497,299
 28995,Calcetines antideslizantes N1 - Red,"Calcetines técnicos antideslizantes con grip. 
  Mantienen el pie firme dentro de la bota, evitando deslizamientos internos y mejorando la estabilidad en cada acción. 
- Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC.",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28995-calcetines-antideslizantes-n1-red,https://n1gloves.com/25193-large_default/calcetines-antideslizantes-n1-red.jpg,N1 Goalkeeper,,AC-GRIRED-0498,306
+ Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC. 
+  MEDIDAS  
+  Talla S  
+ 
+ 
+ EU: 35–38 
+ 
+ 
+ US: 3–6 
+ 
+ 
+  Talla M  
+ 
+ 
+ EU: 39–42 
+ 
+ 
+ US: 7–9 
+ 
+ 
+  Talla L  
+ 
+ 
+ EU: 43–46 
+ 
+ 
+ US: 10–12",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28995-calcetines-antideslizantes-n1-red,https://n1gloves.com/25193-large_default/calcetines-antideslizantes-n1-red.jpg,N1 Goalkeeper,,AC-GRIRED-0498,306
 28997,Calcetines antideslizantes N1 - Green,"Calcetines técnicos antideslizantes con grip. 
  Mantienen el pie firme dentro de la bota, evitando deslizamientos internos y mejorando la estabilidad en cada acción. 
- Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC.",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28997-calcetines-antideslizantes-n1-green,https://n1gloves.com/25200-large_default/calcetines-antideslizantes-n1-green.jpg,N1 Goalkeeper,,AC-GRIGRE-0499,296
+ Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC. 
+  MEDIDAS  
+  Talla S  
+ 
+ 
+ EU: 35–38 
+ 
+ 
+ US: 3–6 
+ 
+ 
+  Talla M  
+ 
+ 
+ EU: 39–42 
+ 
+ 
+ US: 7–9 
+ 
+ 
+  Talla L  
+ 
+ 
+ EU: 43–46 
+ 
+ 
+ US: 10–12",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28997-calcetines-antideslizantes-n1-green,https://n1gloves.com/25200-large_default/calcetines-antideslizantes-n1-green.jpg,N1 Goalkeeper,,AC-GRIGRE-0499,296
 28998,Calcetines antideslizantes N1 - Orange,"Calcetines técnicos antideslizantes con grip. 
  Mantienen el pie firme dentro de la bota, evitando deslizamientos internos y mejorando la estabilidad en cada acción. 
- Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC.",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28998-calcetines-antideslizantes-n1-orange,https://n1gloves.com/25207-large_default/calcetines-antideslizantes-n1-orange.jpg,N1 Goalkeeper,,AC-GRIORA-0500,300
+ Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nailon/ 10% Elastano/ 10% Poliester Zonas grip: 100% PVC. 
+  MEDIDAS  
+  Talla S  
+ 
+ 
+ EU: 35–38 
+ 
+ 
+ US: 3–6 
+ 
+ 
+  Talla M  
+ 
+ 
+ EU: 39–42 
+ 
+ 
+ US: 7–9 
+ 
+ 
+  Talla L  
+ 
+ 
+ EU: 43–46 
+ 
+ 
+ US: 10–12",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28998-calcetines-antideslizantes-n1-orange,https://n1gloves.com/25207-large_default/calcetines-antideslizantes-n1-orange.jpg,N1 Goalkeeper,,AC-GRIORA-0500,300
 28999,Calcetines antideslizantes N1 - Blue,"Calcetines técnicos antideslizantes con grip. 
  Mantienen el pie firme dentro de la bota, evitando deslizamientos internos y mejorando la estabilidad en cada acción. 
  Ideales para jugadores que buscan mayor control, precisión y seguridad en el juego.  Composición: 40% Algodón/ 40% Nylon/ 10% Elastane/ 10% Polyester Zonas grip: 100% PVC.",in stock,new,12.90 EUR,,https://n1gloves.com/es/inicio/28999-calcetines-antideslizantes-n1-blue,https://n1gloves.com/25212-large_default/calcetines-antideslizantes-n1-blue.jpg,N1 Goalkeeper,,AC-GRIBLU-0501,300
@@ -161,7 +318,7 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 31048,Sudadera Entreno Tarry Black,"Desarrollada con tejido  TARRY , un material técnico de poliéster + elastano que proporciona un ajuste excepcional, máxima elasticidad y total libertad de movimiento. 
  Su reducido grosor ofrece una sensación de ligereza superior sin renunciar a la resistencia que exige el entrenamiento diario.",in stock,new,24.90 EUR,,https://n1gloves.com/es/inicio/31048-sudadera-entreno-tarry-black-,https://n1gloves.com/27795-large_default/sudadera-entreno-tarry-black-.jpg,N1 Goalkeeper,,CL-SWEBLA-1042,78
 31049,Sudadera Entreno Tarry White,"Desarrollada con tejido  TARRY , un material técnico de poliéster + elastano que proporciona un ajuste excepcional, máxima elasticidad y total libertad de movimiento. 
- Su reducido grosor ofrece una sensación de ligereza superior sin renunciar a la resistencia que exige el entrenamiento diario.",in stock,new,24.90 EUR,,https://n1gloves.com/es/inicio/31049-sudadera-entreno-tarry-white,https://n1gloves.com/27798-large_default/sudadera-entreno-tarry-white.jpg,N1 Goalkeeper,,CL-SWEWHI-1043,42
+ Su reducido grosor ofrece una sensación de ligereza superior sin renunciar a la resistencia que exige el entrenamiento diario.",in stock,new,24.90 EUR,,https://n1gloves.com/es/inicio/31049-sudadera-entreno-tarry-white,https://n1gloves.com/27798-large_default/sudadera-entreno-tarry-white.jpg,N1 Goalkeeper,,CL-SWEWHI-1043,41
 31050,Pantalón Tarry Black,"Desarrollado con tejido  TARRY , una combinación técnica de poliéster + elastano que proporciona un ajuste excepcional, máxima elasticidad y total libertad de movimiento. 
  Su tejido ligero ofrece una gran comodidad sin renunciar a la resistencia que exige el entrenamiento diario.",in stock,new,24.90 EUR,,https://n1gloves.com/es/inicio/31050-pantalon-tarry-black,https://n1gloves.com/27801-large_default/pantalon-tarry-black.jpg,N1 Goalkeeper,,CL-PANBLA-1045,78
 31052,Pantalón Tarry White,"Desarrollado con tejido  TARRY , una combinación técnica de poliéster + elastano que proporciona un ajuste excepcional, máxima elasticidad y total libertad de movimiento. 
@@ -171,8 +328,8 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 23500,Guantes de Portero Zeus 2.0 Galaxy  UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/23500-guantes-de-portero-zeus-20-galaxy-ugt-ii,https://n1gloves.com/19925-large_default/guantes-de-portero-zeus-20-galaxy-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUGAL-0468,28
 23501,Guantes de Portero Zeus 2.0 Phoenix UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/23501-guantes-de-portero-zeus-20-phoenix-ugt-ii,https://n1gloves.com/19916-large_default/guantes-de-portero-zeus-20-phoenix-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUPHO-0467,57
 23504,Guantes de Portero Zeus 2.0 Storm UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/23504-guantes-de-portero-zeus-20-storm-ugt-ii,https://n1gloves.com/19908-large_default/guantes-de-portero-zeus-20-storm-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUSTO-0470,10
-23505,Guantes de Portero Zeus 2.0 Breeze UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/23505-guantes-de-portero-zeus-20-breeze-ugt-ii,https://n1gloves.com/19895-large_default/guantes-de-portero-zeus-20-breeze-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUBRE-0469,44
-25501,Guantes de Portero Zeus 2.0 Aura UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/25501-guantes-de-portero-zeus-20-aura-ugt-ii,https://n1gloves.com/21608-large_default/guantes-de-portero-zeus-20-aura-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUAUR-0486,52
+23505,Guantes de Portero Zeus 2.0 Breeze UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/23505-guantes-de-portero-zeus-20-breeze-ugt-ii,https://n1gloves.com/19895-large_default/guantes-de-portero-zeus-20-breeze-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUBRE-0469,43
+25501,Guantes de Portero Zeus 2.0 Aura UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/25501-guantes-de-portero-zeus-20-aura-ugt-ii,https://n1gloves.com/21608-large_default/guantes-de-portero-zeus-20-aura-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUAUR-0486,51
 25520,Guantes de Portero Zeus 2.0 Iris UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/25520-guantes-de-portero-zeus-20-iris-ugt-ii,https://n1gloves.com/21635-large_default/guantes-de-portero-zeus-20-iris-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUIRI-0487,39
 26247,Guantes de Portero Zeus 2.0 Stellar UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,71.91 EUR,https://n1gloves.com/es/linea/26247-guantes-de-portero-zeus-20-stellar-ugt-ii,https://n1gloves.com/23746-large_default/guantes-de-portero-zeus-20-stellar-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUSTE-0485,76
 27537,Guantes de Portero Zeus 2.0 Lunar UGT+ II,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,79.90 EUR,,https://n1gloves.com/es/linea/27537-guantes-de-portero-zeus-20-lunar-ugt-ii,https://n1gloves.com/23739-large_default/guantes-de-portero-zeus-20-lunar-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEULUN-0483,52
@@ -183,7 +340,7 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 29915,Guantes de Portero Zeus 2.0 Portugal UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
  Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29915-guantes-de-portero-zeus-20-portugal-ugt-ii,https://n1gloves.com/26614-large_default/guantes-de-portero-zeus-20-portugal-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1080,36
 29916,Guantes de Portero Zeus 2.0 Argentina UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
- Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29916-guantes-de-portero-zeus-20-argentina-ugt-ii,https://n1gloves.com/26584-large_default/guantes-de-portero-zeus-20-argentina-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1073,15
+ Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29916-guantes-de-portero-zeus-20-argentina-ugt-ii,https://n1gloves.com/26584-large_default/guantes-de-portero-zeus-20-argentina-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1073,14
 29917,Guantes de Portero Zeus 2.0 Alemania UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
  Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29917-guantes-de-portero-zeus-20-alemania-ugt-ii,https://n1gloves.com/26624-large_default/guantes-de-portero-zeus-20-alemania-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1081,32
 29918,Guantes de Portero Zeus 2.0 Brasil V1 UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
@@ -199,7 +356,7 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 29924,Guantes de Portero Zeus 2.0 Holanda UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
  Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29924-guantes-de-portero-zeus-20-holanda-ugt-ii,https://n1gloves.com/26655-large_default/guantes-de-portero-zeus-20-holanda-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1082,61
 29925,Guantes de Portero Zeus 2.0 Bélgica UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
- Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29925-guantes-de-portero-zeus-20-belgica-ugt-ii,https://n1gloves.com/26604-large_default/guantes-de-portero-zeus-20-belgica-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1074,40
+ Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29925-guantes-de-portero-zeus-20-belgica-ugt-ii,https://n1gloves.com/26604-large_default/guantes-de-portero-zeus-20-belgica-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1074,39
 29926,Guantes de Portero Zeus 2.0 México UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
  Cada diseño está inspirado en la esencia, energía y personalidad de diferentes naciones futbolísticas, convirtiendo cada guante en mucho más que una herramienta de competición: una forma de representar tus colores dentro del campo.  Incluye Gymsack GRATIS con los colores corporativos del país.",in stock,new,79.90 EUR,47.94 EUR,https://n1gloves.com/es/linea/29926-guantes-de-portero-zeus-20-mexico-ugt-ii,https://n1gloves.com/26659-large_default/guantes-de-portero-zeus-20-mexico-ugt-ii.jpg,N1 Goalkeeper,,GL-ZEUWC2-1068,43
 29927,Guantes de Portero Zeus 2.0 USA UGT+ II,"Descubre una colección creada para quienes viven el fútbol con pasión, identidad y orgullo. Los nuevos  ZEUS 2.0 – Gloves of Nations  representan la unión entre el máximo rendimiento profesional y los colores que inspiran a millones de aficionados alrededor del mundo. 
@@ -218,14 +375,14 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
  Sudadera Hoodie con capucha de color blanco N1.",in stock,new,29.90 EUR,20.93 EUR,https://n1gloves.com/es/textil/10470-sudadera-hoodie-white,https://n1gloves.com/23941-large_default/sudadera-hoodie-white.jpg,N1 Goalkeeper,,CL-HOOWHI-0112,51
 111,Chubasquero Negro/Blanco,"Chubasquero N1 impermeable de poliéster. 
  El tejido con el que está fabricado es ideal para combatir el frio, el viento y la lluvia, además de ser muy duradero y transpirable.  Color: Negro/Blanco",in stock,new,31.90 EUR,22.33 EUR,https://n1gloves.com/es/chubasquero/111-chubasqueros,https://n1gloves.com/1087-large_default/chubasqueros.jpg,N1 Goalkeeper,,CL-RAIBLA-0099,57
-708,Malla Corta Protek,Shorts térmico-compresivos de Lycra con protecciones en las caderas,in stock,new,29.90 EUR,,https://n1gloves.com/es/ropa-termica/708-malla-corta-protek,https://n1gloves.com/2012-large_default/malla-corta-protek.jpg,N1 Goalkeeper,,CL-COMBLA-0119,205
+708,Malla Corta Protek,Shorts térmico-compresivos de Lycra con protecciones en las caderas,in stock,new,29.90 EUR,,https://n1gloves.com/es/ropa-termica/708-malla-corta-protek,https://n1gloves.com/2012-large_default/malla-corta-protek.jpg,N1 Goalkeeper,,CL-COMBLA-0119,204
 132,Guantes de Portero Beta 2.0 Kids Blue,Guantes de portero para niños  con corte Negativo y palma de Látex alemán 100% natural Super Low Grip.,in stock,new,34.90 EUR,31.41 EUR,https://n1gloves.com/es/kids-ii/132-guantes-de-portero-beta-20-kids-blue,https://n1gloves.com/4413-large_default/guantes-de-portero-beta-20-kids-blue.jpg,N1 Goalkeeper,,GL-KIDBET-0045,60
 133,Guantes de Portero Horus 2.0 Kids Gold,Guantes de portero para niños  con corte negativo y palma de Látex alemán 100% natural Super Low Grip.,in stock,new,34.90 EUR,31.41 EUR,https://n1gloves.com/es/kids-ii/133-guantes-de-portero-horus-20-kids-gold,https://n1gloves.com/1220-large_default/guantes-de-portero-horus-20-kids-gold.jpg,N1 Goalkeeper,,GL-KIDHOR-0044,77
 13535,Guantes de Portero Scorpius 2.0 Kids All Black,Guantes de portero para niños  con corte negativo y palma de Látex alemán 100% natural Super Low Grip.,in stock,new,34.90 EUR,31.41 EUR,https://n1gloves.com/es/kids-ii/13535-guantes-de-portero-scorpius-20-kids-all-black,https://n1gloves.com/9250-large_default/guantes-de-portero-scorpius-20-kids-all-black.jpg,N1 Goalkeeper,,GL-KIDSCO-322X,84
 13539,Guantes de Portero Scorpius 2.0 Kids Pink,Guantes de portero para niños  con corte negativo y palma de Látex alemán 100% natural Super Low Grip.,in stock,new,34.90 EUR,31.41 EUR,https://n1gloves.com/es/kids-ii/13539-guantes-de-portero-scorpius-20-kids-pink,https://n1gloves.com/14373-large_default/guantes-de-portero-scorpius-20-kids-pink.jpg,N1 Goalkeeper,,GL-KIDSCO-0301,48
 108,Pantalón de Porteros,Pantalón largo de portero acolchado con protecciones en caderas y rodillas.,in stock,new,27.80 EUR,22.24 EUR,https://n1gloves.com/es/ropa-de-portero/108-pantalon-de-porteros,https://n1gloves.com/1066-large_default/pantalon-de-porteros.jpg,N1 Goalkeeper,,CL-GKPLON-96X,116
 109,Pantalón corto,Pantalón corto de entrenamiento y competición N1.  Composición: 100% Poliéster,in stock,new,14.90 EUR,,https://n1gloves.com/es/ropa-de-portero/109-pantalon-de-porteros,https://n1gloves.com/7222-large_default/pantalon-de-porteros.jpg,N1 Goalkeeper,,CL-TRABLA-0097,51
-11723,Pantalón de Porteros 3/4,Pantalón 3/4 de portero acolchado con protecciones en caderas y rodillas.,in stock,new,22.98 EUR,,https://n1gloves.com/es/ropa-de-portero/11723-pantalon-de-porteros-34,https://n1gloves.com/6619-large_default/pantalon-de-porteros-34.jpg,N1 Goalkeeper,,CL-GKP3/4-0138,115
+11723,Pantalón de Porteros 3/4,Pantalón 3/4 de portero acolchado con protecciones en caderas y rodillas.,in stock,new,22.98 EUR,,https://n1gloves.com/es/ropa-de-portero/11723-pantalon-de-porteros-34,https://n1gloves.com/6619-large_default/pantalon-de-porteros-34.jpg,N1 Goalkeeper,,CL-GKP3/4-0138,114
 112,Chubasquero Negro/Neón,"Chubasquero N1 impermeable de poliéster. 
  El tejido con el que está fabricado es ideal para combatir el frio, el viento y la lluvia, además de ser muy duradero y transpirable.  Color: Negro/Neón",in stock,new,31.90 EUR,22.33 EUR,https://n1gloves.com/es/rebajas/112-chubasqueros,https://n1gloves.com/1097-large_default/chubasqueros.jpg,N1 Goalkeeper,,CL-RaiBLA-0100,57
 532,Reflex Ball,"Este balón fue diseñado específicamente para el entrenamiento de porteros. El N1 Reflex Ball ayuda significativamente a mejorar la velocidad de reacción, y la agilidad del Portero.",in stock,new,29.90 EUR,23.92 EUR,https://n1gloves.com/es/rebajas/532-reflex-ball,https://n1gloves.com/1415-large_default/reflex-ball.jpg,N1 Goalkeeper,,AC-REFNEO-0140,32
@@ -250,7 +407,7 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 116,Manguitos,"Manguitos de compresión antiabrasión. 
  Muy resistentes a la abrasión, te protegerán de rozaduras y quemaduras en cualquier superficie.",in stock,new,11.90 EUR,9.52 EUR,https://n1gloves.com/es/30/116-manguitos,https://n1gloves.com/1122-large_default/manguitos.jpg,N1 Goalkeeper,,CL-MANBLA-0108,259
 122,Polo,Polo,in stock,new,19.90 EUR,15.92 EUR,https://n1gloves.com/es/30/122-polo,https://n1gloves.com/1162-large_default/polo.jpg,N1 Goalkeeper,,CL-POLBLA-0109,21
-127,Mallas termicas,Mallas térmicas compresivas largas muy resistentes,in stock,new,26.80 EUR,21.44 EUR,https://n1gloves.com/es/30/127-mallas-termicas,https://n1gloves.com/1182-large_default/mallas-termicas.jpg,N1 Goalkeeper,,CL-COMBLA-0102,95
+127,Mallas termicas,Mallas térmicas compresivas largas muy resistentes,in stock,new,26.80 EUR,21.44 EUR,https://n1gloves.com/es/30/127-mallas-termicas,https://n1gloves.com/1182-large_default/mallas-termicas.jpg,N1 Goalkeeper,,CL-COMBLA-0102,93
 128,Camiseta Térmica,Camiseta térmica compresiva de manga larga.,in stock,new,26.80 EUR,21.44 EUR,https://n1gloves.com/es/30/128-camiseta-termicas,https://n1gloves.com/1187-large_default/camiseta-termicas.jpg,N1 Goalkeeper,,CL-COMBLA-0103,169
 236,Chubasquero Amarillo Neón,"Chubasquero N1 impermeable de poliéster. 
  El tejido con el que está fabricado es ideal para combatir el frio, el viento y la lluvia, además de ser muy duradero y transpirable.  Color: Amarillo Neón",in stock,new,31.90 EUR,22.33 EUR,https://n1gloves.com/es/30/236-chubasquero-amarillo-neon,https://n1gloves.com/1347-large_default/chubasquero-amarillo-neon.jpg,N1 Goalkeeper,,CL-RAINEO-0101,66
@@ -282,16 +439,16 @@ id,title,description,availability,condition,price,sale_price,link,image_link,bra
 15277,Guantes de Portero Scorpius 2.0 Golden UGT+II,"Descubre la evolución del guante de portero más exitoso, ahora más ligero y ajustado como una segunda piel. El Scorpius 2.0 UGT+ II presenta un corte Negativo y la palma de Látex Alemán 100% natural UGT+.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/scorpius-20/15277-guantes-de-portero-scorpius-20-golden-ugtii,https://n1gloves.com/11898-large_default/guantes-de-portero-scorpius-20-golden-ugtii.jpg,N1 Goalkeeper,,GL-SCOGOL-0332,58
 15295,Guantes de Portero Scorpius 2.0 Golden Black UGT+II,"Descubre la evolución del guante de portero más exitoso, ahora más ligero y ajustado como una segunda piel. El Scorpius 2.0 UGT+ II presenta un corte Negativo y la palma de Látex Alemán 100% natural UGT+.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/scorpius-20/15295-guantes-de-portero-scorpius-20-golden-black-ugtii,https://n1gloves.com/11883-large_default/guantes-de-portero-scorpius-20-golden-black-ugtii.jpg,N1 Goalkeeper,,GL-SCOGOL-0333,101
 13257,Guantes de Portero GEA Black UGT+ II,"Introducimos el nuevo estándar en comodidad y rendimiento con los guantes GEA UGT+ II. Diseñados para llevar tu juego al siguiente nivel, estos guantes premium ofrecen una sensación de ligereza, amortiguación excepcional y un agarre superior. Prepárate para un blocaje más preciso, confort y un ajuste perfecto.",in stock,new,59.90 EUR,47.92 EUR,https://n1gloves.com/es/gea/13257-guantes-de-portero-gea-black-ugt-ii,https://n1gloves.com/9568-large_default/guantes-de-portero-gea-black-ugt-ii.jpg,N1 Goalkeeper,,GL-GEABLA-0238,49
-15119,Guantes de Portero Ares 2.0 All White UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/ares-20/15119-guantes-de-portero-ares-20-all-white-ugt-ii,https://n1gloves.com/10695-large_default/guantes-de-portero-ares-20-all-white-ugt-ii.jpg,N1 Goalkeeper,,GL-AREALL-0312,8
-15120,Guantes de Portero Ares 2.0 All Black UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/ares-20/15120-guantes-de-portero-ares-20-all-black-ugt-ii,https://n1gloves.com/10712-large_default/guantes-de-portero-ares-20-all-black-ugt-ii.jpg,N1 Goalkeeper,,GL-AREALL-0313,60
+15119,Guantes de Portero Ares 2.0 All White UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/ares-20/15119-guantes-de-portero-ares-20-all-white-ugt-ii,https://n1gloves.com/10695-large_default/guantes-de-portero-ares-20-all-white-ugt-ii.jpg,N1 Goalkeeper,,GL-AREALL-0312,9
+15120,Guantes de Portero Ares 2.0 All Black UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/ares-20/15120-guantes-de-portero-ares-20-all-black-ugt-ii,https://n1gloves.com/10712-large_default/guantes-de-portero-ares-20-all-black-ugt-ii.jpg,N1 Goalkeeper,,GL-AREALL-0313,58
 15121,Guantes de Portero Ares 2.0 Blue UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",out of stock,new,69.90 EUR,34.95 EUR,https://n1gloves.com/es/ares-20/15121-guantes-de-portero-ares-20-blue-ugt-ii,https://n1gloves.com/10688-large_default/guantes-de-portero-ares-20-blue-ugt-ii.jpg,N1 Goalkeeper,,GL-AREBLU-0315,0
-15123,Guantes de Portero Ares 2.0 Neon UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/ares-20/15123-guantes-de-portero-ares-20-neon-ugt-ii,https://n1gloves.com/10681-large_default/guantes-de-portero-ares-20-neon-ugt-ii.jpg,N1 Goalkeeper,,GL-ARENEO-0314,7
+15123,Guantes de Portero Ares 2.0 Neon UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,55.92 EUR,https://n1gloves.com/es/ares-20/15123-guantes-de-portero-ares-20-neon-ugt-ii,https://n1gloves.com/10681-large_default/guantes-de-portero-ares-20-neon-ugt-ii.jpg,N1 Goalkeeper,,GL-ARENEO-0314,6
 15124,Guantes de Portero Ares 2.0 Orange UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,34.95 EUR,https://n1gloves.com/es/ares-20/15124-guantes-de-portero-ares-20-orange-ugt-ii,https://n1gloves.com/22350-large_default/guantes-de-portero-ares-20-orange-ugt-ii.jpg,N1 Goalkeeper,,GL-AREORA-0316,12
 22062,Guantes de Portero Ares 2.0 Aqua UGT+ II,"Descubre la evolución de la excelencia con los Ares 2.0 UGT+ II, los guantes de portero de la línea Premium de N1. Equipados con tecnología avanzada y diseñados para los porteros más exigentes, estos guantes representan un paso audaz hacia adelante en términos de agarre, comodidad y confianza en el campo.",in stock,new,69.90 EUR,48.93 EUR,https://n1gloves.com/es/ares-20/22062-guantes-de-portero-ares-20-aqua-ugt-ii,https://n1gloves.com/17936-large_default/guantes-de-portero-ares-20-aqua-ugt-ii.jpg,N1 Goalkeeper,,GL-AREAQU-0322,60
 18880,Guantes de Portero Sirius 2.0 White UGT+ II,"El Sirius 2.0 ha llegado para redefinir la portería. Con un diseño revolucionario y el nuevo tejido de alto rendimiento  AirFlex Pro , este guante establece un nuevo estándar en flexibilidad, comodidad, ajuste y transpiración. Combina ligereza y ajuste con armado a la perfección. ¡El arma definitiva para porteros que exigen lo mejor!",in stock,new,69.90 EUR,,https://n1gloves.com/es/sirius-20/18880-guantes-de-portero-sirius-20-white-ugt-ii,https://n1gloves.com/14944-large_default/guantes-de-portero-sirius-20-white-ugt-ii.jpg,N1 Goalkeeper,,GL-SIRWHI-0366,57
 24912,Guantes de Portero Zeus 2.0 Shadow UGT+ II - Edición Especial,"Descubre la evolución del guante de portero con máximo rendimiento, confort y ajuste. El Zeus 2.0 redefine la performance con tecnologías de última generación como el corte Vapor Negativo y cuerpo en Airflex Pro.",in stock,new,64.90 EUR,,https://n1gloves.com/es/christian-segador/24912-guantes-de-portero-zeus-20-shadow-ugt-ii-edicion-especial,https://n1gloves.com/23128-large_default/guantes-de-portero-zeus-20-shadow-ugt-ii-edicion-especial.jpg,N1 Goalkeeper,,GL-ZEUSHA-CH01,104
 25127,Sudadera Black Edición Especial CH,"Sudadera de entrenamiento para porteros. 
- Desarrollada en poliéster + elastano te dará un ajuste sensacional a la vez que te permitirá una movilidad perfecta en tus entrenamientos.",in stock,new,19.90 EUR,,https://n1gloves.com/es/christian-segador/25127-sudadera-black-edicion-especial-ch,https://n1gloves.com/23130-large_default/sudadera-black-edicion-especial-ch.jpg,N1 Goalkeeper,,CL-SUDCHB-CH01,45
+ Desarrollada en poliéster + elastano te dará un ajuste sensacional a la vez que te permitirá una movilidad perfecta en tus entrenamientos.",in stock,new,19.90 EUR,,https://n1gloves.com/es/christian-segador/25127-sudadera-black-edicion-especial-ch,https://n1gloves.com/23130-large_default/sudadera-black-edicion-especial-ch.jpg,N1 Goalkeeper,,CL-SUDCHB-CH01,44
 25128,Sudadera Pink Edición Especial CH,"Sudadera de entrenamiento para porteros. 
  Desarrollada en poliéster + elastano te dará un ajuste sensacional a la vez que te permitirá una movilidad perfecta en tus entrenamientos.",in stock,new,19.90 EUR,,https://n1gloves.com/es/christian-segador/25128-sudadera-pink-edicion-especial-ch,https://n1gloves.com/23119-large_default/sudadera-pink-edicion-especial-ch.jpg,N1 Goalkeeper,,CL-SUDCHP-CH01,53
 25129,Camiseta Técnica Black Edición Especial CH,"Camiseta de manga corta para entrenamiento. 
